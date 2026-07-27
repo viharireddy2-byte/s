@@ -18,10 +18,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=viharireddy2-byte&style=for-the-badge&color=6D28D9&labelColor=0f0c29)
-![Followers](https://img.shields.io/github/followers/viharireddy2-byte?style=for-the-badge&color=7C3AED&labelColor=0f0c29&logo=github)
-![Stars](https://img.shields.io/github/stars/viharireddy2-byte?style=for-the-badge&color=8B5CF6&labelColor=0f0c29&logo=github)
-
 </div>
 
 ---
@@ -152,48 +148,6 @@ current_focus:
 ```
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=viharireddy2-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=viharireddy2-byte&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharireddy2-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=viharireddy2-byte&theme=discord&no-frame=true&row=1&column=7&margin-w=10"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viharireddy2-byte&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/viharireddy2-byte/viharireddy2-byte/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
 ---
 
 ## 📬 Connect
