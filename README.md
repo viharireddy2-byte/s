@@ -7,12 +7,15 @@
 </a>
 
 <br/>
+
 ![MS in IT](https://img.shields.io/badge/M.S.-Information%20Technology-6D28D9?style=for-the-badge&labelColor=0f0c29)
 ![Recent Grad](https://img.shields.io/badge/Status-Recent%20Graduate-4C1D95?style=for-the-badge&labelColor=0f0c29)
+
 <br/>
 
 <a href="https://www.linkedin.com/in/viharireddy2/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
 <a href="https://github.com/viharireddy2-byte"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" /></a>
+
 <br/><br/>
 
 </div>
